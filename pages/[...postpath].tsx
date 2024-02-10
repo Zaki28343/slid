@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://plumpobstructionmortal.com/xjjwmdwna?key=cffa9f4652f967de182f5c0f0c006ec1/`
+					`https://saveourstateok.org/` + encodeURI(path as string)
 				}`,
 			},
 		};
